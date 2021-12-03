@@ -4,8 +4,8 @@ import requests
 import subprocess
 from websocket import create_connection
 
-#Config
-spotify_path="C:\\Users\\Elias\\AppData\\Roaming\\Spotify\\Spotify.exe"
+#Config (EDIT THIS ACCORDING TO YOUR USER NAME!!!)
+spotify_path="C:\\Users\\YourUserName\\AppData\\Roaming\\Spotify\\Spotify.exe"
 
 #Defining stuff
 base_url = 'http://localhost:4693/json/list'
