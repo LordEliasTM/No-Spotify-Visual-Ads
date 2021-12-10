@@ -8,6 +8,9 @@ Only supports the spotify client, not the browser or mobile app! (Tbh who would 
 
 - Remove annoying fullscreen popup ad
 - Remove several banner ads
+- Changes the UPGRADE button to something fancy
+
+Feature requests are welcome as long as they are realistic.
 
 ## Requirements
 
