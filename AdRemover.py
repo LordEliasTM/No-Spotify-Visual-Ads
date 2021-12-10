@@ -11,7 +11,7 @@ spotify_path="C:\\Users\\YourUserName\\AppData\\Roaming\\Spotify\\Spotify.exe"
 base_url = 'http://localhost:4693/json/list'
 script = """
   var tag = document.createElement(\"style\"); 
-  var text = document.createTextNode(\"[data-testid=\\\"test-ref-div\\\"] { display: none; } .GenericModal__overlay { display: none; } [data-testid=\\\"billboard-minimized\\\"] { display: none; } .k6onUQZSeZIsonJ4cSpK { display: none; } .hx2D0g_ursHte5bm62U2 { display: none; }\"); 
+  var text = document.createTextNode(\"[data-testid=\\\"test-ref-div\\\"] { display: none; } .GenericModal__overlay { display: none; } [data-testid=\\\"billboard-minimized\\\"] { display: none; } .k6onUQZSeZIsonJ4cSpK { display: none; } .WiPggcPDzbwGxoxwLWFf { display: none; }\"); 
   document.getElementById(\"main\").appendChild(tag); 
   tag.setAttribute(\"id\", \"remove-ads\"); 
   tag.appendChild(text); 
